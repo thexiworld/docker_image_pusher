@@ -1,1 +1,1 @@
---platform=linux/arm64/v7 wechaty/wechaty
+--platform=linux/arm64 wechaty/wechaty
